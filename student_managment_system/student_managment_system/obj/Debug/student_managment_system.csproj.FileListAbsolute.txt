@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\bin\Debug\student_managment_system.exe.config
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\bin\Debug\student_managment_system.exe
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\bin\Debug\student_managment_system.pdb
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\obj\Debug\student_managment_system.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\obj\Debug\student_managment_system.Form1.resources
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\obj\Debug\student_managment_system.Properties.Resources.resources
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\obj\Debug\student_managment_system.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\obj\Debug\student_managment_system.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\obj\Debug\student_managment_system.exe
+C:\Users\Acer\source\repos\student_managment_system\student_managment_system\obj\Debug\student_managment_system.pdb
